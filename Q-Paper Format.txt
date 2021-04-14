@@ -1,0 +1,21 @@
+This line contains the first question. The next line contains the correct option's index.
+1
+Option1
+Option2
+Option3
+Option4
+
+This line contains the next question. Leave exactly one blank line in between questions.
+3
+Option1
+Option2
+Option3
+Option4
+Option5
+Option6
+Option7
+
+You can have any number of questions. Each question can have any number of options.
+2
+Option1
+Option2
